@@ -21,4 +21,5 @@ You can access the project repository [here](https://github.com/dreweloper/blue-
 ---
 
 📫 How to reach me:
+- ![LinkedIn logo](https://img.shields.io/badge/any_text-you_like-blue)
 - [LinkedIn](https://www.linkedin.com/in/andres-leon-developer)
