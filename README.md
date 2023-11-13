@@ -10,6 +10,8 @@
 - Git VCS
 - Scrum Project Management
 
+![Alt Codewars profile badge](https://www.codewars.com/users/DREWiex/badges/large)
+
 ---
 
 🚀 Latest Project: "Blue" - A quiz that calculates your water footprint 💧
