@@ -1,6 +1,6 @@
 ## Hi, I'm Andrés! 👋
 
-🎖️ **Full Stack Web Developer** 🎖️ bootcamp graduated looking forward to put into practice what I've learned.
+🎖️ **Full Stack Developer** 🎖️ looking forward to put into practice what I've learned.
 
 💻 Hard Skills:
 
