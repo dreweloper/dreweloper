@@ -1,26 +1,22 @@
-## Hi, I'm Andrés! 👋
+# Andrés León
 
-🎖️ **Full Stack Developer** 🎖️ looking forward to put into practice what I've learned.
+Frontend-focused Full Stack Developer · React & TypeScript · Madrid, Spain
 
-💻 Hard Skills:
+> 🚧 This profile is being updated. More projects and details coming soon.
 
-- HTML5, CSS3, JavaScript ES6
-- React, Node.js, Express
-- MongoDB, PostgreSQL
-- Git VCS
-- Scrum Project Management
+### Currently
 
-![Alt Codewars profile badge](https://www.codewars.com/users/DREWiex/badges/large)
+- Open to new opportunities. Feel free to reach out.
+- Building **playstate**, an open source React/TypeScript library to display what you're listening to on Spotify (`@playstate/*` on npm, coming soon).
 
----
+### Stack
 
-🚀 Latest Project: "Blue" - A quiz that calculates your water footprint 💧
+**Frontend:** React, TypeScript, Zustand, TanStack Query, Vite, Ant Design  
+**Backend:** Node.js, Express, PostgreSQL, MongoDB  
+**Cloud:** AWS (Lambda, S3, API Gateway, DynamoDB, CloudWatch)  
+**Testing:** Jest, Vitest, React Testing Library  
+**Workflow:** Git, Scrum, Jira, Figma
 
-"Blue" is a project I recently worked on. It is an interactive water footprint calculator that helps raise awareness of people's water consumption and promotes sustainable practices. The app classifies users as "Saver" or "Spender" according to their water consumption and provides detailed information on their daily consumption, as well as annual expenditure in euros. It also proposes personalized challenges to help users save water, money and contribute to the care of the environment.
+### Contact
 
-You can access the project repository [here](https://github.com/dreweloper/blue-quiz).
-
----
-
-📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/andres-leon-developer)
+[LinkedIn](https://www.linkedin.com/in/andres-leon-developer)
